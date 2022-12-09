@@ -25,3 +25,23 @@
   font-size: 36px;
 
 }
+
+
+
+@media screen and (max-width:576px) {
+.container {
+          padding:10px;
+          
+    
+  }
+  .h1{
+  font-size:8px;
+  }
+  .form{
+  padding-top:20px;
+  
+  }
+  
+}
+
+
