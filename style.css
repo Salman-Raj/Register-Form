@@ -28,21 +28,20 @@
 
 
 
-@media screen (min-width:320px) and (max-width:576px) {
+@media screen (max-height:1120px and max-width:610px) {
 .container {
           padding-top:10px;
           
     
   }
   .h1{
-  font-size:10px;
+  font-size:6px;
   }
   .form{
-    padding-top:20px;
-    font-size:8px;
+  padding-top:20px;
   
   }
+ 
+
   
 }
-
-
